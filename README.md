@@ -7,3 +7,5 @@ Desafio 02 do capítulo I da trilha ReactJS do Ignite, da rocketseat.
 ## O desafio: Refatorar uma página para listagem de filmes
 
 O objetivo desse desafio é refatorar uma página para listagem de filmes de acordo com gênero.
+
+[Instruções](https://www.notion.so/Desafio-02-Componentizando-a-aplica-o-b9f0f025c95b437699d0c3115f55b0f1)
