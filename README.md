@@ -2,7 +2,7 @@
 
 _( Ignite | ReactJS | Capítulo I | Desafio 02 )_
 
-Desafio 02 do capítulo I da trilha ReactJS do Ignite, da rocketseat.
+Desafio 02 do capítulo I da trilha ReactJS do bootcamp Ignite, da Rocketseat.
 
 ## O desafio: Refatorar uma página para listagem de filmes
 
